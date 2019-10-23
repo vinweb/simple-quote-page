@@ -1,0 +1,18 @@
+body {
+  background: url(assets/262.jpg) no-repeat fixed center top;
+  text-align: center;
+  line-height: 1.5;
+}
+
+.cite {
+  font-family: 'Julius Sans One', sans-serif;
+  padding: 8rem;
+  font-size: 2.5rem;
+}
+
+.author {
+  font-family: 'Crimson Text', serif;
+  font-style: italic;
+  font-size: 1.3rem;
+  margin-top: -5rem;
+}
